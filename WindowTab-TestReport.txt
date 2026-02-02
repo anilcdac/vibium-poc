@@ -1,0 +1,41 @@
+
+WINDOW & TAB SWITCHING TEST REPORT
+===================================
+Generated: 2/2/2026, 10:24:52 pm
+
+SUMMARY:
+--------
+Total Tests Run: 4
+Passed: 4
+Failed: 0
+Success Rate: 100.00%
+
+PASSED TESTS:
+1. Navigation to Practice Page
+2. Switch Window Example - Open Window
+3. Switch Tab Example - Open Tab
+4. Window/Tab State Verification
+
+FAILED TESTS:
+None
+
+TIMING:
+-------
+Start Time: 2026-02-02T16:54:38.674Z
+End Time: 2026-02-02T16:54:52.695Z
+
+SCREENSHOTS:
+------------
+1. WindowTab-screenshot-initial.png
+2. WindowTab-screenshot-after-window.png
+3. WindowTab-screenshot-after-tab.png
+4. WindowTab-screenshot-final.png
+
+TESTS INCLUDED:
+---------------
+1. Navigation to Practice Page
+2. Switch Window Example - Open Window Button
+3. Switch Tab Example - Open Tab Button
+4. Window/Tab State Verification
+
+END OF REPORT
